@@ -1,0 +1,68 @@
+#BG {
+    width: 450px;
+    height: 855px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -55px;
+    top: 0px;
+    z-index: -1;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.hover {
+    font-size: 20px;
+    position: absolute;
+    top: 80px;
+    left: 110px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.hover:hover {
+    color: white;
+}
+
+#logo {
+    position: absolute;
+    width: 200px;
+    left: 100px;
+    top: 225px;
+}
+
+#h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 310px;
+    left: 110px;
+}
+
+#gegevens {
+    color: #99DEFF;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 360px;
+    left: 10px;
+}
+
+table {
+    position: absolute;
+    width: 370px;
+    margin: 0;
+    padding: 0;
+    top: 450px;
+}
+
+table,tr,th,tr,td {
+    margin: 0;
+    padding: 0;
+    border: 3px #BFE8FC solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+

@@ -1,0 +1,73 @@
+.container {
+    left: 20px;
+    top: 300px;
+    position: absolute;
+    width: 350px;
+    text-align: center;
+}
+
+.tabs {
+    display: none;
+}
+
+.tabs.active {
+    display: block;
+}
+
+.tab-content {
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #BFE8FC;
+    margin-bottom: 20px;
+}
+
+h1 {
+    position: absolute;
+    color: black;
+    left: 90px;
+    top: -10px;
+}
+
+#tab2 {
+    width: 280px;
+}
+
+#text2 {
+    position: absolute;
+    left: 20px;
+    top: 230px;
+    font-size: 17px;
+}
+
+#tab3 {
+    width: 220px;
+}
+
+#text3 {
+    position: absolute;
+    left: 40px;
+    top: 230px;
+    font-size: 17px;
+}
+
+#tab4 {
+    width: 300px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #99DEFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:disabled {
+    background-color: #BFE8FC;
+    cursor: not-allowed;
+}

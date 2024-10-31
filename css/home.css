@@ -1,0 +1,65 @@
+#BG {
+    width: 450px;
+    height: 855px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -55px;
+    top: 0px;
+    z-index: -1;
+}
+
+#logo {
+    position: absolute;
+    width: 140px;
+    left: 130px;
+    top: 50px;
+}
+
+#h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 95px;
+    left: 135px;
+}
+
+footer {
+    background-color: #99DEFF;
+    width: 393px;
+    margin: 0;
+    padding: 0;
+    height: 70px;
+    position: absolute;
+    left: 0;
+    top: 785px;
+}
+
+#profiel {
+    position: absolute;
+    left: 30px;
+    top: 15px;
+}
+
+#mandje {
+    position: absolute;
+    left: 120px;
+    top: 15px;
+}
+
+#info {
+    position: absolute;
+    left: 220px;
+    top: 15px;
+}
+
+#settings {
+    position: absolute;
+    left: 320px;
+    top: 15px;
+}
+
+.footer_img:hover {
+    width: 13%;
+}

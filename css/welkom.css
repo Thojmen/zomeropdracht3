@@ -1,0 +1,64 @@
+#BG {
+    width: 450px;
+    height: 855px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -55px;
+    top: 0px;
+    z-index: -1;
+}
+
+#logo {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 130px;
+}
+
+#text {
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 55px;
+    top: 300px;
+}
+
+#robot {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 400px;
+    left: -40px;
+    animation: rotate 5s infinite linear;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#go {
+    z-index: 2;
+    position: absolute;
+    left: 135px;
+    top: 750px;
+}
+
+a {
+    color: black;
+    position: absolute;
+    top: 750px;
+    left: 170px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover{
+    color: white;
+}

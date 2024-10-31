@@ -1,0 +1,158 @@
+#BG {
+    width: 450px;
+    height: 855px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -55px;
+    top: 0px;
+    z-index: -1;
+}
+
+nav {
+    margin: 0;
+    width: 380px;
+    height: 60px;
+}
+
+#terug {
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    top: 10px;
+    color: #99DEFF;
+    text-decoration: none;
+}
+
+#terug:hover {
+    color: white;
+}
+
+#h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+#address-book {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+#betalen {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+#account {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+#land {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+#taal {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+#contact {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+#feedback {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+#Maak-verbinding{
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+#Privacy {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+#Uitloggen {
+    background-color: #BFE8FC;
+    width: 340px;
+    height: 45px;
+    margin: 20px;
+}
+
+.img {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.P {
+    color: #3196C6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 80px;
+}
+
+.P:hover {
+    color: white;
+}
+
+
+footer {
+    background-color: #99DEFF;
+    width: 393px;
+    margin: 0;
+    padding: 0;
+    height: 70px;
+    position: absolute;
+    left: 0;
+    top: 785px;
+}
+
+#profiel {
+    position: absolute;
+    left: 30px;
+    top: 15px;
+}
+
+#mandje {
+    position: absolute;
+    left: 120px;
+    top: 15px;
+}
+
+#info {
+    position: absolute;
+    left: 220px;
+    top: 15px;
+}
+
+#settings {
+    position: absolute;
+    left: 320px;
+    top: 15px;
+}
+
+.footer_img:hover {
+    width: 13%;
+}
